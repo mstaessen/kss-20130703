@@ -1604,4 +1604,57 @@ body {
 	visibility: hidden;
 }
 
+.text-left {
+	text-align: left;
+}
 
+.text-center {
+	text-align: center;	
+}
+
+.text-right {
+	text-align: right;		
+}
+
+.reveal div.block {
+	display: block;
+	margin-bottom: 1em;
+}
+
+div.component {
+	margin: 15px 30px;
+}
+
+div.component p {
+	margin: 15px;
+	padding: 10px 0px;
+}
+
+.shell {
+	background-color: #0e53a7;
+}
+
+.plugin {
+	background-color: #6899d3;
+}
+
+.webview {
+	background-color: #b90091;	
+}
+
+.application {
+	background-color: #baf300;
+	color: #333333;
+}
+
+.html, .css, .js {
+	background-color: #96b62e;
+}
+
+ul.pro {
+	list-style-image: url(../img/plus-5-32.png);
+}
+
+ul.con {
+	list-style-image: url(../img/minus-5-32.png);
+}
